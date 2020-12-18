@@ -1,10 +1,10 @@
 
-tumblers - v1 2020-12-17 5:57pm
+tumblers - v1 tumblers
 ==============================
 
-This dataset was exported via roboflow.ai on December 17, 2020 at 8:57 AM GMT
+This dataset was exported via roboflow.ai on December 18, 2020 at 1:31 AM GMT
 
-It includes 9 images.
+It includes 57 images.
 Tumbler are annotated in YOLO v4 PyTorch format.
 
 The following pre-processing was applied to each image:
